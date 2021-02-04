@@ -58,6 +58,8 @@ Oh my! Requirements changed! Slack just released a new version of their API whic
 
 - We believe in 80% but 100% done, rather than 100% but 80% done. If you are short on time, feel free to leave some features out, but don't compromise on code quality.
 
+- If you run out of time, please elaborate the things you would do to take the project into production in the README
+
 - Please use node, typescript welcome but not necessary
 
 - If you are unsure about some details, please improvise. You have the freedom to decide.
