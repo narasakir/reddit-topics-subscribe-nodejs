@@ -8,7 +8,7 @@ Since most of the time we will be working on solving some kind of problem for ou
 
 In a world with unlimited content and choice, it becomes difficult to focus on the topics that really matter to us as an individual.
 
-I personally use reddit to create my own little personalized view on the world. My favourite topics are new technolgies, politics and funny memes!
+I personally use reddit to create my own little personalized view on the world. My favourite topics are new technologies, politics and funny memes!
 
 After joining hear.com / audibene I noticed that many of my colleagues are using reddit too! We are all over the world, some of us in Berlin others in Denver and some in Miami. Our interest of course also differ greatly.
 
@@ -44,19 +44,15 @@ Some Help
 
 You are not alone in this, this is a team effort! We will focus on building an email-service which will handle both html template generation and send out of the emails. You can mock this service for now, but please log the json payload you would sent to this service to stdout.
 
-## One more thing, for our seniors...
-
-If you are applying for a senior engineer role, please also fulfill the task below:
-
-Oh my! Requirements changed! Slack just released a new version of their API which allows to send HTML formatted messages! Now, some of us want to have their newsletters sent to slack instead of email! It seems our architecture is a bit too unflexible to easily incorporate this new request. Could you draft a rough diagram of a re-designed service architecture which would allow us to more easily build things like this in the future. For this, you can leave out one of the above stated requirements, choose the one you deem least important.
-
 ## Some final notes
 
 - We are all developers, we love to interact directly with a REST api. No UI is needed! We'd love to be able to easily understand the api though...
 
-- We all trust each other, not auth needed ;)
+- We all trust each other, no auth needed ;)
 
 - We believe in 80% but 100% done, rather than 100% but 80% done. If you are short on time, feel free to leave some features out, but don't compromise on code quality.
+
+- We work as a team so please make the code readable and maintainable and pay additional details in starting a new project
 
 - If you run out of time, please elaborate the things you would do to take the project into production in the README
 
