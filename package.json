@@ -1,0 +1,24 @@
+{
+  "name": "reddit-topic-subscriber",
+  "version": "1.0.0",
+  "description": "Service to subscribe in topics from reddit built in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasakir/reddit-topics-subscribe-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reddit",
+    "crud"
+  ],
+  "author": "Raphael Narasaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narasakir/reddit-topics-subscribe-nodejs/issues"
+  },
+  "homepage": "https://github.com/narasakir/reddit-topics-subscribe-nodejs#readme"
+}
